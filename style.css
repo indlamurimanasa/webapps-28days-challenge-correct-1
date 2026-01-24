@@ -1,0 +1,63 @@
+ body {
+    background-color: #eef2ff;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 40px;
+}
+
+.card {
+    background-color: #ffffff;
+    width: 520px;
+    margin: auto;
+    padding: 25px;
+    border-radius: 14px;
+    border: 1px solid #ccc;
+}
+
+/* Heading styles */
+h1 { color: #2d3748; text-align: center; }
+h2 { color: #4a5568; }
+h3 { color: #5a67d8; }
+h4 { color: #667eea; }
+h5 { color: #805ad5; }
+h6 { color: #9f7aea; }
+
+span {
+    color: #d53f8c;
+    font-weight: bold;
+}
+
+img {
+    display: block;
+    margin: 15px auto;
+    border-radius: 50%;
+}
+
+/* KL University logo container */
+.logo-container img {
+    display: block;
+    margin: 10px auto;
+    border-radius: 8px; /* optional small rounding */
+}
+
+p {
+    font-size: 15px;
+    line-height: 1.6;
+}
+
+ul, ol {
+    margin-left: 20px;
+}
+
+.links {
+    text-align: center;
+    margin-top: 20px;
+}
+
+a {
+    text-decoration: none;
+    padding: 8px 14px;
+    margin: 0 8px;
+    background-color: #5a67d8;
+    color: white;
+    border-radius: 6px;
+}
